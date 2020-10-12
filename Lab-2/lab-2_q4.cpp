@@ -6,11 +6,11 @@ class complex
     float real;
     float imag;
 public:
-    /*complex()
+    complex()
     {
         real=0;
         imag=0;
-    }*/
+    }
 
     complex(float a,float b)
     {
